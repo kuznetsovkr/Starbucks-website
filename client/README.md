@@ -23,6 +23,3 @@ Technologies and tools used in the development of the project:
     <img alt="License" src="https://img.shields.io/badge/license-MIT-ff512f?style=flat-square">
 </a>
 <br>
-
----
-Made with 💖 by [**mmarinhomac**](https://github.com/mmarinhomac)
